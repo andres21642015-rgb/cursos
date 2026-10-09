@@ -111,7 +111,7 @@ class _PantallaInicioState extends State<PantallaInicio> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Academia Creativa'),
+        title: const Text('Listado de cursos Programados'),
         centerTitle: true,
         backgroundColor: colorCiruela,
         foregroundColor: Colors.white,

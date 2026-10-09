@@ -11,7 +11,7 @@ class AcademiaApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Academia Creativa',
+      title: 'Listado de cursos programados:',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorSchemeSeed: const Color(0xFF7A2E4D), // ciruela
